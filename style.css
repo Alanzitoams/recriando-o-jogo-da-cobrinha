@@ -1,0 +1,19 @@
+body{
+    background: url('./imagem/img2.jpg') ;
+    height: center;
+    width: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(52, 165, 52);
+}
+.titulo{
+   margin: 10px 20px;
+    height: 180px;
+    
+}
+#snake{
+    border-radius: 10px;
+}
+
